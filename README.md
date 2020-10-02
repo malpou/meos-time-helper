@@ -12,7 +12,7 @@ npm i meos-time-helper
 
 ## Usage
 
-TODO
+Under construction
 
 ## License
 
