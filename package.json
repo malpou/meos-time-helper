@@ -1,5 +1,5 @@
 {
-  "name": "typesript-package",
+  "name": "meos-time-helper",
   "version": "0.1.0",
   "description": "",
   "main": "lib/index.js",
@@ -17,15 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/malpou/Typesript-Package.git"
+    "url": "git+https://github.com/malpou/meos-time-helper.git"
   },
   "author": "= Malthe Poulsen",
   "keywords": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/malpou/Typesript-Package/issues"
+    "url": "https://github.com/malpou/meos-time-helper/issues"
   },
-  "homepage": "https://github.com/malpou/Typesript-Package#readme",
+  "homepage": "https://github.com/malpou/meos-time-helper#readme",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/preset-env": "^7.11.5",
