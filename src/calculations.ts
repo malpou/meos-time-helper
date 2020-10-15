@@ -12,5 +12,5 @@ export function estimatedTime(time: Time): Time {
     minutes: timeNow.getMinutes(),
     seconds: timeNow.getSeconds()
   } as Time;
-  return difference(currentTime, time);
+  return difference(time, currentTime);
 }
